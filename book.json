@@ -1,0 +1,12 @@
+{"title": "Inspirabbits Python Experiences",
+    "version": "2015.10.16, 01",
+    "description": "OMOOC.py classes",
+    "author": "John",
+
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "shortName": "omoocpython"
+    }
+}
